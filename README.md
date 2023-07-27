@@ -22,5 +22,3 @@ MIT
 
 
  <i style='text-align: center; color: red;font-size: 13px;'>CopyRight © lastmalware 2021</i> 
-
-
